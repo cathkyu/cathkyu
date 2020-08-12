@@ -11,11 +11,6 @@ I'm a third year software engineering student at McMaster University. Currently 
 [linkedin]: https://linkedin.com/in/cathkychen
 [devpost]: https://devpost.com/cathkyu
 
----
-
-![Catherine's github stats](https://github-readme-stats.vercel.app/api?username=cathkyu&hide=issues,stars,prs)
-
-
 <!--
 **cathkyu/cathkyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
