@@ -1,5 +1,5 @@
 ## Hi there, I'm Catherine 👋 ##
-I'm a third year software engineering student at McMaster University. Currently searching for internship opportunities!
+I'm a third year software engineering student at McMaster University. Currently searching for 2021 internship opportunities!
 
 ## Connect with me ##
 
