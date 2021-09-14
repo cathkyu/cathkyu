@@ -1,5 +1,5 @@
 ## Hi there, I'm Catherine 👋 ##
-I'm a third year software engineering student at McMaster University, working as a Software Engineer Intern at LinkedIn for the summer. Currently searching for 2021 & 2022 internship opportunities!
+I'm a third year software engineering student at McMaster University, working as a Software Engineer Intern at Shopify, prev at LinkedIn. Currently searching for 2022 winter & summer internship opportunities!
 
 ## Connect with me ##
 
